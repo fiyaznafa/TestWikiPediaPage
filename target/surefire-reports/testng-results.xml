@@ -1,0 +1,345 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results skipped="0" failed="0" ignored="0" total="21" passed="21">
+  <reporter-output>
+  </reporter-output>
+  <suite name="Selenium Take Home Test" duration-ms="40481" started-at="2019-10-17T22:28:45Z" finished-at="2019-10-17T22:29:25Z">
+    <groups>
+    </groups>
+    <test name="Selenium Take Home Test" duration-ms="40481" started-at="2019-10-17T22:28:45Z" finished-at="2019-10-17T22:29:25Z">
+      <class name="com.vlocity.qe.WikipediaTest">
+        <test-method status="PASS" signature="setup()[pri:0, instance:com.vlocity.qe.WikipediaTest@146e1f4]" name="setup" is-config="true" duration-ms="28816" started-at="2019-10-17T22:28:45Z" finished-at="2019-10-17T22:29:14Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- setup -->
+        <test-method status="PASS" signature="checkLanguage(java.lang.String, java.lang.String)[pri:0, instance:com.vlocity.qe.WikipediaTest@146e1f4]" name="checkLanguage" duration-ms="125" started-at="2019-10-17T22:29:14Z" data-provider="Languages" finished-at="2019-10-17T22:29:14Z">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[js-link-box-en]]>
+              </value>
+            </param>
+            <param index="1">
+              <value>
+                <![CDATA[English]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- checkLanguage -->
+        <test-method status="PASS" signature="checkLanguage(java.lang.String, java.lang.String)[pri:0, instance:com.vlocity.qe.WikipediaTest@146e1f4]" name="checkLanguage" duration-ms="73" started-at="2019-10-17T22:29:14Z" data-provider="Languages" finished-at="2019-10-17T22:29:14Z">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[js-link-box-es]]>
+              </value>
+            </param>
+            <param index="1">
+              <value>
+                <![CDATA[Español]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- checkLanguage -->
+        <test-method status="PASS" signature="checkLanguage(java.lang.String, java.lang.String)[pri:0, instance:com.vlocity.qe.WikipediaTest@146e1f4]" name="checkLanguage" duration-ms="62" started-at="2019-10-17T22:29:14Z" data-provider="Languages" finished-at="2019-10-17T22:29:14Z">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[js-link-box-de]]>
+              </value>
+            </param>
+            <param index="1">
+              <value>
+                <![CDATA[Deutsch]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- checkLanguage -->
+        <test-method status="PASS" signature="checkLanguage(java.lang.String, java.lang.String)[pri:0, instance:com.vlocity.qe.WikipediaTest@146e1f4]" name="checkLanguage" duration-ms="80" started-at="2019-10-17T22:29:14Z" data-provider="Languages" finished-at="2019-10-17T22:29:14Z">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[js-link-box-fr]]>
+              </value>
+            </param>
+            <param index="1">
+              <value>
+                <![CDATA[Français]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- checkLanguage -->
+        <test-method status="PASS" signature="checkLanguage(java.lang.String, java.lang.String)[pri:0, instance:com.vlocity.qe.WikipediaTest@146e1f4]" name="checkLanguage" duration-ms="71" started-at="2019-10-17T22:29:14Z" data-provider="Languages" finished-at="2019-10-17T22:29:14Z">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[js-link-box-zh]]>
+              </value>
+            </param>
+            <param index="1">
+              <value>
+                <![CDATA[中文]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- checkLanguage -->
+        <test-method status="PASS" signature="checkLanguage(java.lang.String, java.lang.String)[pri:0, instance:com.vlocity.qe.WikipediaTest@146e1f4]" name="checkLanguage" duration-ms="70" started-at="2019-10-17T22:29:14Z" data-provider="Languages" finished-at="2019-10-17T22:29:14Z">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[js-link-box-pl]]>
+              </value>
+            </param>
+            <param index="1">
+              <value>
+                <![CDATA[Polski]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- checkLanguage -->
+        <test-method status="PASS" signature="checkLanguage(java.lang.String, java.lang.String)[pri:0, instance:com.vlocity.qe.WikipediaTest@146e1f4]" name="checkLanguage" duration-ms="73" started-at="2019-10-17T22:29:14Z" data-provider="Languages" finished-at="2019-10-17T22:29:14Z">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[js-link-box-pt]]>
+              </value>
+            </param>
+            <param index="1">
+              <value>
+                <![CDATA[Português]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- checkLanguage -->
+        <test-method status="PASS" signature="checkLanguage(java.lang.String, java.lang.String)[pri:0, instance:com.vlocity.qe.WikipediaTest@146e1f4]" name="checkLanguage" duration-ms="64" started-at="2019-10-17T22:29:14Z" data-provider="Languages" finished-at="2019-10-17T22:29:14Z">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[js-link-box-it]]>
+              </value>
+            </param>
+            <param index="1">
+              <value>
+                <![CDATA[Italiano]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- checkLanguage -->
+        <test-method status="PASS" signature="checkLanguage(java.lang.String, java.lang.String)[pri:0, instance:com.vlocity.qe.WikipediaTest@146e1f4]" name="checkLanguage" duration-ms="76" started-at="2019-10-17T22:29:14Z" data-provider="Languages" finished-at="2019-10-17T22:29:14Z">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[js-link-box-ru]]>
+              </value>
+            </param>
+            <param index="1">
+              <value>
+                <![CDATA[Русский]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- checkLanguage -->
+        <test-method status="PASS" signature="checkLanguage(java.lang.String, java.lang.String)[pri:0, instance:com.vlocity.qe.WikipediaTest@146e1f4]" name="checkLanguage" duration-ms="63" started-at="2019-10-17T22:29:14Z" data-provider="Languages" finished-at="2019-10-17T22:29:15Z">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[js-link-box-ja]]>
+              </value>
+            </param>
+            <param index="1">
+              <value>
+                <![CDATA[日本語]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- checkLanguage -->
+        <test-method status="PASS" signature="checkLink(java.lang.String, java.lang.String)[pri:0, instance:com.vlocity.qe.WikipediaTest@146e1f4]" name="checkLink" duration-ms="2164" started-at="2019-10-17T22:29:15Z" data-provider="Languages" finished-at="2019-10-17T22:29:17Z">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[js-link-box-en]]>
+              </value>
+            </param>
+            <param index="1">
+              <value>
+                <![CDATA[English]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- checkLink -->
+        <test-method status="PASS" signature="checkLink(java.lang.String, java.lang.String)[pri:0, instance:com.vlocity.qe.WikipediaTest@146e1f4]" name="checkLink" duration-ms="797" started-at="2019-10-17T22:29:17Z" data-provider="Languages" finished-at="2019-10-17T22:29:18Z">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[js-link-box-es]]>
+              </value>
+            </param>
+            <param index="1">
+              <value>
+                <![CDATA[Español]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- checkLink -->
+        <test-method status="PASS" signature="checkLink(java.lang.String, java.lang.String)[pri:0, instance:com.vlocity.qe.WikipediaTest@146e1f4]" name="checkLink" duration-ms="755" started-at="2019-10-17T22:29:18Z" data-provider="Languages" finished-at="2019-10-17T22:29:18Z">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[js-link-box-de]]>
+              </value>
+            </param>
+            <param index="1">
+              <value>
+                <![CDATA[Deutsch]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- checkLink -->
+        <test-method status="PASS" signature="checkLink(java.lang.String, java.lang.String)[pri:0, instance:com.vlocity.qe.WikipediaTest@146e1f4]" name="checkLink" duration-ms="804" started-at="2019-10-17T22:29:18Z" data-provider="Languages" finished-at="2019-10-17T22:29:19Z">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[js-link-box-fr]]>
+              </value>
+            </param>
+            <param index="1">
+              <value>
+                <![CDATA[Français]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- checkLink -->
+        <test-method status="PASS" signature="checkLink(java.lang.String, java.lang.String)[pri:0, instance:com.vlocity.qe.WikipediaTest@146e1f4]" name="checkLink" duration-ms="773" started-at="2019-10-17T22:29:19Z" data-provider="Languages" finished-at="2019-10-17T22:29:20Z">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[js-link-box-zh]]>
+              </value>
+            </param>
+            <param index="1">
+              <value>
+                <![CDATA[中文]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- checkLink -->
+        <test-method status="PASS" signature="checkLink(java.lang.String, java.lang.String)[pri:0, instance:com.vlocity.qe.WikipediaTest@146e1f4]" name="checkLink" duration-ms="1055" started-at="2019-10-17T22:29:20Z" data-provider="Languages" finished-at="2019-10-17T22:29:21Z">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[js-link-box-pl]]>
+              </value>
+            </param>
+            <param index="1">
+              <value>
+                <![CDATA[Polski]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- checkLink -->
+        <test-method status="PASS" signature="checkLink(java.lang.String, java.lang.String)[pri:0, instance:com.vlocity.qe.WikipediaTest@146e1f4]" name="checkLink" duration-ms="1141" started-at="2019-10-17T22:29:21Z" data-provider="Languages" finished-at="2019-10-17T22:29:22Z">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[js-link-box-pt]]>
+              </value>
+            </param>
+            <param index="1">
+              <value>
+                <![CDATA[Português]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- checkLink -->
+        <test-method status="PASS" signature="checkLink(java.lang.String, java.lang.String)[pri:0, instance:com.vlocity.qe.WikipediaTest@146e1f4]" name="checkLink" duration-ms="984" started-at="2019-10-17T22:29:22Z" data-provider="Languages" finished-at="2019-10-17T22:29:23Z">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[js-link-box-it]]>
+              </value>
+            </param>
+            <param index="1">
+              <value>
+                <![CDATA[Italiano]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- checkLink -->
+        <test-method status="PASS" signature="checkLink(java.lang.String, java.lang.String)[pri:0, instance:com.vlocity.qe.WikipediaTest@146e1f4]" name="checkLink" duration-ms="1041" started-at="2019-10-17T22:29:23Z" data-provider="Languages" finished-at="2019-10-17T22:29:24Z">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[js-link-box-ru]]>
+              </value>
+            </param>
+            <param index="1">
+              <value>
+                <![CDATA[Русский]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- checkLink -->
+        <test-method status="PASS" signature="checkLink(java.lang.String, java.lang.String)[pri:0, instance:com.vlocity.qe.WikipediaTest@146e1f4]" name="checkLink" duration-ms="1030" started-at="2019-10-17T22:29:24Z" data-provider="Languages" finished-at="2019-10-17T22:29:25Z">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[js-link-box-ja]]>
+              </value>
+            </param>
+            <param index="1">
+              <value>
+                <![CDATA[日本語]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- checkLink -->
+        <test-method status="PASS" signature="sloganPresent()[pri:0, instance:com.vlocity.qe.WikipediaTest@146e1f4]" name="sloganPresent" duration-ms="62" started-at="2019-10-17T22:29:25Z" finished-at="2019-10-17T22:29:25Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- sloganPresent -->
+        <test-method status="PASS" signature="closeBrowser()[pri:0, instance:com.vlocity.qe.WikipediaTest@146e1f4]" name="closeBrowser" is-config="true" duration-ms="148" started-at="2019-10-17T22:29:25Z" finished-at="2019-10-17T22:29:25Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- closeBrowser -->
+      </class> <!-- com.vlocity.qe.WikipediaTest -->
+    </test> <!-- Selenium Take Home Test -->
+  </suite> <!-- Selenium Take Home Test -->
+</testng-results>
